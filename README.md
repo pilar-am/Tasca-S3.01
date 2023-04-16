@@ -1,4 +1,4 @@
-#PATRONES DE DISEÑO
+PATRONES DE DISEÑO
 
 Patrones de diseño:<br>
 1. Singleton<br>
